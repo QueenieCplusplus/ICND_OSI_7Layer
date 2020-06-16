@@ -4,11 +4,11 @@
 
 上三層 （應用）              
 
-                               App
+                               App /* UI */ // http and telnet
 
-                          Presentation
+                          Presentation /* encryption */
                           
-                             Session
+                             Session // keep data seperate for diff apps
 
 
 下四層 （資料流）                
