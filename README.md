@@ -13,13 +13,13 @@
 
 下四層 （資料流）                
 
-                            Transport
+                            Transport // tcp & udp
                                
-                             Network
+                             Network // IP, IPX
                                
-                             DataLink
+                             DataLink // 802.3
                              
-                             Physical
+                             Physical /* move bits between devices */
 
 
 資料網路的目的在於連接內部的所有電腦和電腦網路系統，讓員工不分時間、地點、主機，隨時能取得關資訊，提高生產力。也基於此，大家不必為了取得工作所需資料而齊聚一堂。
