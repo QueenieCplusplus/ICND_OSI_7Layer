@@ -1,5 +1,27 @@
 # ICND OSI 7 Layer
 
+# OSI 七 層
+
+上三層 （應用）              
+
+                               App
+
+                          Presentation
+                          
+                             Session
+
+
+下四層 （資料流）                
+
+                            Transport
+                               
+                             Network
+                               
+                             DataLink
+                             
+                             Physical
+
+
 資料網路的目的在於連接內部的所有電腦和電腦網路系統，讓員工不分時間、地點、主機，隨時能取得關資訊，提高生產力。也基於此，大家不必為了取得工作所需資料而齊聚一堂。
 
 使用者群組的策略經營：
